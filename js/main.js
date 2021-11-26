@@ -67,7 +67,7 @@ $(window).on('load', function() {
 		TYPED JS
 	--------------------*/
 	$(".element").typed({
-		strings: ["Meet PROtectABot", "The Hate Hacker", "and Misinformation Tackler"],
+		strings: ["Meet PROtectABot", "the Hate Hacker", "and Misinformation Tackler"],
 		typeSpeed: 10,
 		loop:true,
 		backDelay: 2000
